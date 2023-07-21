@@ -4,7 +4,7 @@
 ## Схема workflow для процессов типа bug
 
 1. Снимок схемы:
-[](./images/bug_wf.png)
+![](./images/bug_wf.png)
 
 2. [xml-файл схемы](./xml/bug_workflow.xml)
 
