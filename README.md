@@ -6,7 +6,7 @@
 1. Снимок схемы:
 ![](./images/bug_wf.png)
 
-2. [xml-файл схемы](./xml/Bug_workflow.xml)
+2. ![xml-файл схемы](./xml/Bug_workflow.xml)
 
 ## Схема workflow для процессов другого типа
 
